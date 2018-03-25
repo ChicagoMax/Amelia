@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(230, 230, 233);
+}
+
+#header{
+    padding: 10px;
+    height: 50px;
+    text-align: center;
+    background-color: beige;
+    font-size: 20 px;
+
+}
+
+p{
+    color:black;
+    font-family: sans-serif, Courier, monospace;
+    font-size: 14 px;
+
+}
+
+#footer{
+background-color: #666666;
+text-align: right;
+clear: both;
+color: rgb(245, 230, 204);
+
+
+
+}
